@@ -462,28 +462,3 @@ struct node *delmid(struct node *head,int data)
     return head;
 
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
